@@ -1,8 +1,10 @@
--new_moon:me chamo brenda 
--gosto de praticar varios esportes volleyball,soccer.
--amo sair sair com meus 
--
--
-BRENDEX66/BRENDEX66 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to t:broken_heart:memmmake a look at your changes.
---->
+- # Um resumo de quem eu sou 
+
+new_moon:me chamo brenda 
+gosto de praticar varios esportes volleyball,soccer.não entendo muito sobre computação,mais quero muito ajudar e entender .
+quero me esforçar e conseguir aprender os ensinamentos da materia :relaxed:
+
+
+![](https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white)
+
+
